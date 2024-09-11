@@ -9,7 +9,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f5f5f5;
+            background-color: #f4f4f4;
             color: #333;
         }
         header {
@@ -74,7 +74,7 @@
         </div>
         <div class="agenda-item">
             <h3>09:00 - 10:00</h3>
-            <p>Palestra de Abertura - Título da Palestra - Palestrante: [Nome do Palestrante]</p>
+            <p>Palestra de Abertura - Título da Palestra - Palestrante: [jennifer schaffer]</p>
         </div>
         <div class="agenda-item">
             <h3>10:00 - 10:30</h3>
@@ -98,7 +98,7 @@
         </div>
         <div class="agenda-item">
             <h3>15:00 - 16:30</h3>
-            <p>Painel de Discussão - Tema do Painel: [Tema do Painel] - Moderador: [Nome do Moderador] - Participantes: [Nome dos Participantes]</p>
+            <p>Painel de Discussão - Tema do Painel: [física 1] - Moderador: [Nome do Moderador] - Participantes: [Jennifer schaffer]</p>
         </div>
         <div class="agenda-item">
             <h3>16:30 - 17:00</h3>
@@ -108,8 +108,8 @@
         <h2>Contato</h2>
         <p><strong>Organização:</strong> Colégio Estadual Duque de Caxias</p>
         <p><strong>SEED-PR - Núcleo Regional de Educação de União da Vitória</p>
-        <p><strong>Email:</strong> [Inserir Email]</p>
-        <p><strong>Telefone:</strong> [Inserir Telefone]</p>
+        <p><strong>Email:</strong> [Jennifer.schaffer.martins@escola.pr.gov.br]</p>
+        <p><strong>Telefone:</strong> [--]</p>
         
         <h2>Patrocinadores</h2>
         <p>[Inserir Patrocinadores]</p>
